@@ -1,0 +1,36 @@
+.product-list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 30px;
+}
+.product-list-head {
+  font-size: 25px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.length-cat-cont {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.search-product-btn-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: centers;
+}
+.add-product-button {
+  display: flex;
+  align-self: center;
+  max-width: 150px;
+  margin-bottom: 30px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.span-el {
+  color: red;
+}

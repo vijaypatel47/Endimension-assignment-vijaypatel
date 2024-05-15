@@ -1,0 +1,10 @@
+.add-product-page-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 40px;
+}
+.add-product-head {
+  text-align: center;
+  font-size: 40px;
+}
